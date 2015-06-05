@@ -1,0 +1,12 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>ShowUserList</servlet-name>
+        <servlet-class>servlet.UserServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ShowUserList</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+</web-app>
