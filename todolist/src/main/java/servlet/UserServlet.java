@@ -15,7 +15,6 @@ import java.util.List;
 
 public class UserServlet extends HttpServlet {
 
-    //виды сервлетов get, post, init, service, destroy
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         IUserDAO userDAO = new UserDAOImpl();
