@@ -1,0 +1,2 @@
+2015-05-21 15:11:35 INFO  UserDAOImpl:30 - Method start. Creating User with name: ld@gmail.ru
+2015-05-21 15:11:36 INFO  UserDAOImpl:61 - User with name: ld@gmail.ruwas created.
